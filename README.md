@@ -1,3 +1,0 @@
-# README 
-
-The Word Project
